@@ -1,0 +1,13 @@
+{
+	"novels.common.details": "概要",
+	"novels.navigation.top": "Novels トップへ戻る",
+	"novels.user.unknown": "不明なユーザー",
+	"novels.lists.index": "目次",
+	"novels.lists.status.nonpublic.title": "\"%1\"は非公開です。",
+	"novels.lists.status.nonpublic.header": "Novelsコード \"%1\"は公開されていません。",
+	"novels.lists.status.nonpublic.text": "投稿者が非公開にしている可能性があります。\n権利上の問題で一時的に削除された可能性もあります",
+	"novels.lists.status.notfound.title": "\"%1\"は存在しません。",
+	"novels.lists.status.notfound.header": "Novelsコード\"%1\"は存在しないか、ユーザーによって削除されています。",
+	"novels.lists.status.notfound.text": "投稿者が小説を削除したか\nこのNovelsコードの作品は存在しません。"
+
+}

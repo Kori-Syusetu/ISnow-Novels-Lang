@@ -1,0 +1,13 @@
+{
+	"novels.common.details": "Details",
+	"novels.navigation.top": "Go to the Novels Top",
+	"novels.user.unknown": "Unknown User",
+	"novels.lists.index": "Index",
+	"novels.lists.status.nonpublic.title": "\"%1\" is private.",
+	"novels.lists.status.nonpublic.header": "Novels code \"%1\" has not been published.",
+	"novels.lists.status.nonpublic.text": "The poster may have kept it private.\nIt may have been temporarily deleted due to rights issues",
+	"novels.lists.status.notfound.title": "\"%1\" does not exist.",
+	"novels.lists.status.notfound.header": "The Novels code \"%1\" does not exist or has been deleted by the user.",
+	"novels.lists.status.notfound.text": "The contributor deleted the novel.\nThere is no work of this Novels code."
+
+}

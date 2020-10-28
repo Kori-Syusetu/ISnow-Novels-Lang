@@ -1,0 +1,63 @@
+{
+	"byfile":{
+		"ja.json":{
+			"language": {
+				"globalname": "Japanese",
+				"localname": "日本語"
+			},
+			"regions": {
+				"JP": {
+					"globalname": "Japan",
+					"localname": "日本"
+				}
+			},
+			"authors":[
+				"Kori Syusetu",
+				"Novels Contributors"
+			]
+		},
+		"en.json":{
+			"language": {
+				"globalname": "English",
+				"localname": "English"
+			},
+			"regions": {},
+			"authors":[
+				"Kori Syusetu",
+				"Novels Contributors"
+			]
+		},
+		"en_US.json":{
+			"language": {
+				"globalname": "English",
+				"localname": "English"
+			},
+			"regions": {
+				"US": {
+					"globalname": "United States of America",
+					"localname": "United States"
+				}
+			},
+			"authors":[
+				"Kori Syusetu",
+				"Novels Contributors"
+			]
+		},
+		"en_GB.json":{
+			"language": {
+				"globalname": "English",
+				"localname": "English"
+			},
+			"regions": {
+				"GB": {
+					"globalname": "United Kingdom of Great Britain and Northern Ireland",
+					"localname": "United Kingdom"
+				}
+			},
+			"authors":[
+				"Kori Syusetu",
+				"Novels Contributors"
+			]
+		}
+	}
+}
