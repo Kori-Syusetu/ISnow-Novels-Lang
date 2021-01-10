@@ -1,7 +1,22 @@
-# ISnow Novels Software License Version 0.1 for Novels Core Ver.4
-**Novels コア バージョン4 向けの ISnow Novels ソフトウェア・ライセンス バージョン1<br>
+# ISnow Novels Software License Version 0.1 for Novels Core Ver.5
+**Novels コア バージョン5 向けの ISnow Novels ソフトウェア・ライセンス バージョン1<br>
 日本語(原文)版**<br>
 ## 第一項 本ライセンスについて
 ### 第一条 適用範囲
 ISnow Novels Software LicenseはISnow Novelsのサービス維持に必要となる重要リソースのデータおよびコアのソースコードに適用されます。<br>
 その為本ライセンスではISnow Novelsに関係のないリソース・コードには適用されません
+### 第二条 適用される自由
+ISnow Novels Software Licenseは適用されている以下の種類のファイルに自由ライセンスを付与します。
+対応種類
+- システムリソース
+- 当リポジトリの内容
+付与される自由
+- ソースコードを閲覧する権利
+- ソースコードを変更する権利
+- ソースコードの成果物を販売する権利
+- 成果物を許可なく実行する権利
+次の内容は制限されます
+- 変更したソースコードの公開義務
+- 成果物を犯罪等に利用することの制限
+- コピー先でのコピー元はこっちだという宣言
+- 変更したソースコードの逆輸入を許可
