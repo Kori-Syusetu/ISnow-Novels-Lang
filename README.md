@@ -1,2 +1,2 @@
 # ISnow-Novels-Lang
-ISnow Novels Language Data Repository(JSON Formatted)
+ISnow Novels Language and Translation Resource Repository
