@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+	<comment>
+		ISnow Novels v5 言語・翻訳リソースファイル
+			X語リソースファイル
+		ISnow Novels v5 Language and Translation Resource File
+			X Resource File
+	</comment>
+	<entry key="catchphrase"></entry>
+	<entry key="toppage"></entry>
+	<!-- サービス | Service -->
+	<entry key="nvaddr"></entry>
+	<entry key="linknvaddr"></entry>
+	<entry key="makelink"></entry>
+	<entry key="userevent"></entry>
+	<entry key="ranking"></entry>
+	<entry key="pickup"></entry>
+	<!-- ジャンル | Genre -->
+	<entry key="genre"></entry>
+	<entry key="awFantasy"></entry>
+	<entry key="rwFantasy"></entry>
+	<entry key="scifi"></entry>
+	<entry key="lovestory"></entry>
+	<entry key="romance"></entry>
+	<entry key="drama"></entry>
+	<entry key="horror"></entry>
+	<entry key="mystery"></entry>
+	<entry key="nonfiction"></entry>
+	<entry key="historygenre"></entry>
+	<entry key="criticism"></entry>
+	<entry key="other"></entry>
+	<!-- アカウント | Account -->
+	<entry key="signin"></entry>
+	<entry key="signout"></entry>
+	<entry key="signup"></entry>
+	<entry key="delaccount"></entry>
+	<entry key="client_enable"></entry>
+	<entry key="password"></entry>
+	<entry key="changepasswd"></entry>
+	<entry key="username"></entry>
+	<entry key="userid"></entry>
+	<entry key="birthday"></entry>
+	<entry key="connected_devices"></entry>
+	<entry key="linked_services"></entry>
+	<entry key="profile"></entry>
+	<entry key="editprofile"></entry>
+	<entry key="editworks"></entry>
+	<!-- マイページ | Mypage -->
+	<entry key="mypage"></entry>
+	<!-- "{user}": ユーザー表示名 UserName -->
+	<entry key="welcome"></entry>
+	<entry key="workspace"></entry>
+	<!--
+		ISnow OS Web Runtime: "Airine" Virtual Workstation
+		ISnow OS Web ランタイム：「Airine」 仮想ワークステーション
+	-->
+	<entry key="airinework"></entry>
+	<entry key="library"></entry>
+	<entry key="bookmark"></entry>
+	<entry key="user"></entry>
+	<entry key="notify"></entry>
+	<entry key="notify_off"></entry>
+	<entry key="notify_on"></entry>
+	<entry key="notify_clear"></entry>
+	<entry key="notify_allclear"></entry>
+	<entry key="account_settings"></entry>
+</properties>
