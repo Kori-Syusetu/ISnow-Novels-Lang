@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+	<comment>
+		ISnow Novels v5 言語・翻訳リソースファイル
+			日本語リソースファイル
+		ISnow Novels v5 Language and Translation Resource File
+			Japanese Resource File
+	</comment>
+	<entry key="catchphrase">あなたが書く小説、見せませんか？</entry>
+	<entry key="toppage">トップページ</entry>
+	<!-- サービス | Service -->
+	<entry key="nvaddr">小説アドレス</entry>
+	<entry key="linknvaddr">リンク型小説アドレス</entry>
+	<entry key="makelink">アドレスを作成</entry>
+	<entry key="userevent">自主企画</entry>
+	<entry key="ranking">ランキング</entry>
+	<entry key="pickup">ピックアップ</entry>
+	<!-- ジャンル | Genre -->
+	<entry key="genre">ジャンル</entry>
+	<entry key="awFantasy">異世界ファンタジー</entry>
+	<entry key="rwFantasy">現代ファンタジー</entry>
+	<entry key="scifi">Sci-Fi／SF</entry>
+	<entry key="lovestory">恋愛</entry>
+	<entry key="romance">ラブコメ</entry>
+	<entry key="drama">現代ドラマ</entry>
+	<entry key="horror">ホラー</entry>
+	<entry key="mystery">ミステリー</entry>
+	<entry key="nonfiction">エッセイ／ノン・フィクション</entry>
+	<entry key="historygenre">歴史／時代／伝奇</entry>
+	<entry key="criticism">創作論／評論</entry>
+	<entry key="other">詩・童話・その他</entry>
+	<!-- アカウント | Account -->
+	<entry key="signin">サインイン</entry>
+	<entry key="signout">サインアウト</entry>
+	<entry key="signup">サインアップ</entry>
+	<entry key="delaccount">アカウントの削除</entry>
+	<entry key="client_enable">クライアントアプリの有効化</entry>
+	<entry key="password">パスワード</entry>
+	<entry key="changepasswd">パスワードの変更</entry>
+	<entry key="username">ユーザー表示名</entry>
+	<entry key="userid">ユーザーID</entry>
+	<entry key="birthday">誕生日</entry>
+	<entry key="connected_devices">接続済のデバイス</entry>
+	<entry key="linked_services">リンク済みのサービス</entry>
+	<entry key="profile">プロフィール</entry>
+	<entry key="editprofile">プロフィールの編集</entry>
+	<entry key="editworks">作品情報の編集</entry>
+	<!-- マイページ | Mypage -->
+	<entry key="mypage">マイページ</entry>
+	<!-- "{user}": ユーザー表示名 UserName -->
+	<entry key="welcome">{user}さん。ようこそ！</entry>
+	<entry key="workspace">ワークスペース</entry>
+	<!--
+		ISnow OS Web Runtime: "Airine" Virtual Workstation
+		ISnow OS Web ランタイム：「Airine」 仮想ワークステーション
+	-->
+	<entry key="airinework">Airine仮想W.S.</entry>
+	<entry key="library">ライブラリ</entry>
+	<entry key="bookmark">ブックマーク</entry>
+	<entry key="user">ユーザー</entry>
+	<entry key="notify">通知</entry>
+	<entry key="notify_off">通知オフ</entry>
+	<entry key="notify_on">通知オン</entry>
+	<entry key="notify_clear">通知を消す</entry>
+	<entry key="notify_allclear">通知をすべて消す</entry>
+	<entry key="account_settings">アカウント設定</entry>
+</properties>
